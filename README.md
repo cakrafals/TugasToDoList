@@ -1,2 +1,2 @@
 # TugasToDoList
-Tugas mobile application
+Tugas ToDoList dibuat dengan ionic v1
